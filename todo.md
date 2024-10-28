@@ -1,8 +1,5 @@
-ffdhsdjjsdjjhdhhsdhhhd
-sdhhjhjhsdsdiijjkndbb
-nndjjmdnndkksknnd
-snnkkdmmmdksmmd
-#my to do list
+
+# my to do list
 I have lost to do today
 -attend gii
 -pick kids
@@ -15,7 +12,7 @@ I have lost to do today
 -sleep
 -wake again
 
-#waht to do tomorrow
+# what to do tomorrow
 -prepare breakfast
 -feed the kids
 -attaend lecture
