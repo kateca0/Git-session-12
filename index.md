@@ -4,3 +4,6 @@ Here is the picture i took today
 Thinngs i did
 -Checked google earth
 -opened a meeting
+
+Other stuff
+![](20220204_115551561.jpg)
